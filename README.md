@@ -1,8 +1,12 @@
-## Olá! Eu sou a Ellen Freitas
+## Oieee! Eu sou a Ellen Freitas 👋
 
-- 🎓 Estagiária em Customer Experience  
-- 💻 Estudando JavaScript e Java  
-- 📫 Contato: ellenfreitas827@gmail.com  
-- 😄 Pronomes: ela/dela  
+🎓 Estudante de Ciência da Computação (6º período)  
+⚙️ Estagiária em Customer Experience  
+💻 Em formação para atuar como desenvolvedora  
 
-
+🚀 Tecnologias em aprendizado:
+- Java ☕  
+- JavaScript 🌐
+- 
+📫 Contato: ellenfreitas827@gmail.com  
+😄 Pronomes: ela/dela  
