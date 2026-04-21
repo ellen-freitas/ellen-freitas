@@ -7,6 +7,6 @@
 🚀 Tecnologias em aprendizado:
 - Java ☕  
 - JavaScript 🌐
-- 
+  
 📫 Contato: ellenfreitas827@gmail.com  
 😄 Pronomes: ela/dela  
