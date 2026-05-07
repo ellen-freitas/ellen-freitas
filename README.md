@@ -7,6 +7,6 @@
 Tecnologias em aprendizado: <br>
 ☕Java <br>
 🌐JavaScript
-🐍Python<br>
+🐍Python <br>
   
 📫 Contato: ellenfreitas827@gmail.com 
