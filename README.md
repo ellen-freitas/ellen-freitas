@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Ellen 👋
 
-🎓 Estudante de Ciência da Computação (6º período)  
-📊 Estagiária em Customer experience
+🎓 Estudante de ciência da computação (6º período)  
+📊 Estagiária em customer experience
 🚀 Apaixonada por dados, automação de processos e business intelligence
 
 ### Tecnologias e Ferramentas
@@ -16,10 +16,10 @@
 
 ### Atualmente estudando
 
-📚 Python para Análise de Dados  
-📚 Pandas e Manipulação de Dados  
-📚 Business Intelligence  
-📚 Automação de Processos
+📚 Python para análise de dados  
+📚 Pandas e manipulação de dados  
+📚 Business intelligence  
+📚 Automação de processos
 
 📫 Contato: ellenfreitas827@gmail.com
 🔗 LinkedIn: linkedin.com/in/ellen-freitas-52691a1a1
