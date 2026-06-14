@@ -1,12 +1,25 @@
-## Oieee! Eu sou a Ellen Freitas 👋
+## Olá! Eu sou a Ellen Freitas 👋
 
 🎓 Estudante de Ciência da Computação (6º período)  
-🎲 Estagiária em Customer Experience  
-💻 Em formação para atuar como desenvolvedora Full Stack  
+📊 Estagiária em Customer experience
+🚀 Apaixonada por dados, automação de processos e business intelligence
 
-Tecnologias em aprendizado: <br>
-☕Java <br>
-🌐JavaScript
+### Tecnologias e Ferramentas
 
-  
-📫 Contato: ellenfreitas827@gmail.com 
+📈 Power BI  
+🗄️ SQL  
+🐍 Python (em aprendizado)  
+📱 Power Apps  
+⚙️ Power Automate  
+📊 Excel  
+☕ Java (básico)
+
+### Atualmente estudando
+
+📚 Python para Análise de Dados  
+📚 Pandas e Manipulação de Dados  
+📚 Business Intelligence  
+📚 Automação de Processos
+
+📫 Contato: ellenfreitas827@gmail.com
+🔗 LinkedIn: linkedin.com/in/ellen-freitas-52691a1a1
