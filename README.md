@@ -1,4 +1,4 @@
-## Olá! Eu sou a Ellen Freitas 👋
+## Olá! Eu sou a Ellen 👋
 
 🎓 Estudante de Ciência da Computação (6º período)  
 📊 Estagiária em Customer experience
