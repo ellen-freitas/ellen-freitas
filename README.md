@@ -1,7 +1,7 @@
-### Olá! Eu sou a Ellen 👋
+### Olá! Eu sou a Ellen.
 
-🎓 Estudante de Ciência da Computação (7º período)\n
-📊 Estagiária em Customer Experience
+🎓 Estudante de Ciência da Computação (7º período)<br>
+📊 Estagiária em Customer Experience<br>
 🚀 Apaixonada por dados, automação e desenvolvimento back-end.
 
 ### Tecnologias e ferramentas
